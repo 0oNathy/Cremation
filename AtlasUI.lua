@@ -862,7 +862,7 @@ do
             Converted["_Profile"].Parent = Converted["_Loader"]
 
             Converted["_Title2"].Font = Enum.Font.GothamBold
-            Converted["_Title2"].Text = "Welcome to Cremation..."
+            Converted["_Title2"].Text = "Hi."
             Converted["_Title2"].TextColor3 = Color3.fromRGB(225.00000178813934, 225.00000178813934, 225.00000178813934)
             Converted["_Title2"].TextSize = 18
             Converted["_Title2"].TextTruncate = Enum.TextTruncate.AtEnd
