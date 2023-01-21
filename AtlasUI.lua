@@ -602,7 +602,7 @@ do
             Converted["_Ignore2"].Parent = Converted["_Theme2"]
 
             Converted["_Title"].Font = Enum.Font.GothamBold
-            Converted["_Title"].Text = "Cremation: Game Detected"
+            Converted["_Title"].Text = "Game Supported"
             Converted["_Title"].TextColor3 = Color3.fromRGB(225.00000178813934, 225.00000178813934, 225.00000178813934)
             Converted["_Title"].TextSize = 18
             Converted["_Title"].TextTruncate = Enum.TextTruncate.AtEnd
