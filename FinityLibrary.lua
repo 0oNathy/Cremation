@@ -9,30 +9,30 @@ finity.theme = { -- light
 	text_color = Color3.fromRGB(96, 96, 96),
 
 	category_button_background = Color3.fromRGB(223, 219, 228),
-	category_button_border = Color3.fromRGB(200, 196, 204),
+	category_button_border = Color3.fromRGB(72, 31, 255),
 
 	checkbox_checked = Color3.fromRGB(114, 214, 112),
-	checkbox_outer = Color3.fromRGB(198, 189, 202),
+	checkbox_outer = Color3.fromRGB(72, 31, 255),
 	checkbox_inner = Color3.fromRGB(249, 239, 255),
 
 	slider_color = Color3.fromRGB(114, 214, 112),
-	slider_color_sliding = Color3.fromRGB(114, 214, 112),
+	slider_color_sliding = Color3.fromRGB(72, 31, 255),
 	slider_background = Color3.fromRGB(198, 188, 202),
-	slider_text = Color3.fromRGB(112, 112, 112),
+	slider_text = Color3.fromRGB(72, 31, 255),
 
 	textbox_background = Color3.fromRGB(198, 189, 202),
 	textbox_background_hover = Color3.fromRGB(215, 206, 227),
-	textbox_text = Color3.fromRGB(112, 112, 112),
+	textbox_text = Color3.fromRGB(72, 31, 255),
 	textbox_text_hover = Color3.fromRGB(50, 50, 50),
 	textbox_placeholder = Color3.fromRGB(178, 178, 178),
 
 	dropdown_background = Color3.fromRGB(198, 189, 202),
-	dropdown_text = Color3.fromRGB(112, 112, 112),
-	dropdown_text_hover = Color3.fromRGB(50, 50, 50),
+	dropdown_text = Color3.fromRGB(72, 31, 255),
+	dropdown_text_hover = Color3.fromRGB(72, 31, 255),
 	dropdown_scrollbar_color = Color3.fromRGB(198, 189, 202),
 	
 	button_background = Color3.fromRGB(198, 189, 202),
-	button_background_hover = Color3.fromRGB(215, 206, 227),
+	button_background_hover = Color3.fromRGB(72, 31, 255),
 	button_background_down = Color3.fromRGB(178, 169, 182),
 	
 	scrollbar_color = Color3.fromRGB(198, 189, 202),
