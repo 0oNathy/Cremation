@@ -23,16 +23,16 @@ finity.theme = { -- light
 	textbox_background = Color3.fromRGB(198, 189, 202),
 	textbox_background_hover = Color3.fromRGB(215, 206, 227),
 	textbox_text = Color3.fromRGB(72, 31, 255),
-	textbox_text_hover = Color3.fromRGB(50, 50, 50),
+	textbox_text_hover = Color3.fromRGB(125, 125, 126),
 	textbox_placeholder = Color3.fromRGB(178, 178, 178),
 
 	dropdown_background = Color3.fromRGB(198, 189, 202),
 	dropdown_text = Color3.fromRGB(72, 31, 255),
-	dropdown_text_hover = Color3.fromRGB(72, 31, 255),
+	dropdown_text_hover = Color3.fromRGB(125, 125, 126),
 	dropdown_scrollbar_color = Color3.fromRGB(198, 189, 202),
 	
 	button_background = Color3.fromRGB(198, 189, 202),
-	button_background_hover = Color3.fromRGB(72, 31, 255),
+	button_background_hover = Color3.fromRGB(125, 125, 126),
 	button_background_down = Color3.fromRGB(178, 169, 182),
 	
 	scrollbar_color = Color3.fromRGB(198, 189, 202),
