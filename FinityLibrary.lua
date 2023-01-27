@@ -4,7 +4,7 @@ finity.gs = {}
 
 finity.theme = { -- light
 	main_container = Color3.fromRGB(249, 249, 255),
-	separator_color = Color3.fromRGB(223, 219, 228),
+	separator_color = Color3.fromRGB(72, 31, 255),
 
 	text_color = Color3.fromRGB(96, 96, 96),
 
