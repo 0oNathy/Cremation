@@ -5,12 +5,12 @@ local Config = {
     BoxColor          = Color3.fromRGB(255,255,255),
     BoxOutlineColor   = Color3.fromRGB(0,0,0),
     HealthBar         = false,
-    HealthBarSide     = "Left", -- Left,Bottom,Right
+    HealthBarSide     = "Left",
     Names             = false,
     NamesOutline      = false,
     NamesColor        = Color3.fromRGB(255,255,255),
     NamesOutlineColor = Color3.fromRGB(0,0,0),
-    NamesFont         = 2, -- 0,1,2,3
+    NamesFont         = 2,
     NamesSize         = 13
 }
 
