@@ -1,3 +1,4 @@
+-- // Blox Fruits
 if game.PlaceId == 2753915549 then
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/0oNathy/Cremation/main/CremationBloxFruitsLoader.luau"))()
 end
@@ -8,3 +9,4 @@ elseif game.PlaceId == 7449423635 then
 else
     game.Players.LocalPlayer:Kick("Game is not supported. ( 507 )")
 end
+-- //
